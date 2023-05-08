@@ -11,4 +11,4 @@ try:
     res = ((11 + 2 * a + 4.1) / (12.4 - b)) + c
     print(res)
 except ValueError:
-    print('You enter a letter,try to enter number')
+    print('You wrote a letter,try to enter number')
