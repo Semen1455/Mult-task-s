@@ -4,7 +4,6 @@
 
 print('Multiparadigmatic  programming languages:Task_2\nSemen Yakymenko:IKM-221a')
 TEMPLATE = 'Please Enter {} : '
-TEMPLATE1 = 'You wrote a letter in {} ,try number'
 try:
     a = float(input(TEMPLATE.format('a')))
     b = float(input(TEMPLATE.format('b')))
