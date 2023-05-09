@@ -5,7 +5,7 @@
 print('Multiparadigmatic  programming languages:Task_2\nSemen Yakymenko:IKM-221a')
 TEMPLATE = 'Please Enter {} : '
 try:
-    a = float(input(TEMPLATE.format('a')))
+    a =float(input(TEMPLATE.format('a')))
     b = float(input(TEMPLATE.format('b')))
     c = float(input(TEMPLATE.format('c')))
     res = ((11 + 2 * a + 4.1) / (12.4 - b)) + c
